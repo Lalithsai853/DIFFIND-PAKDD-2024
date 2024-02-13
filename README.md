@@ -10,17 +10,17 @@ Necessary packages to run:
 - neat-python
 
 Files:
-finalexperiments.py - main file containing all experiments
-general.py - used to graph results for training/testing
+- finalexperiments.py: main file containing all experiments
+- general.py: used to graph results for training/testing
 
 Models:
-vanderPol.py - contains methods to run Van Der Pol experiment
-lotkaVolterra.py - contains methods to run Lotka Volterra experiment
-lorenz.py - contains methods to run the Lorenz experiment
-slowSin.py - contains methods to run the slow sinusoid experiment
+- vanderPol.py: contains methods to run Van Der Pol experiment
+- lotkaVolterra.py: contains methods to run Lotka Volterra experiment
+- lorenz.py: contains methods to run the Lorenz experiment
+- slowSin.py: contains methods to run the slow sinusoid experiment
 
 Config Files:
-lotkaVolterra-config-feedforward = config file with parameters for Lotka Volterra experiment
-vanderPol-config-feedforward = config file with parameters for Van Der Pol experiment
-slowSin-config-feedforward = config file with parameters for slow sinusoid experiment
-lorenz-config-feedforward = config file with parameters for Lorenz experiment
+- lotkaVolterra-config-feedforward: config file with parameters for Lotka Volterra experiment
+- vanderPol-config-feedforward: config file with parameters for Van Der Pol experiment
+- slowSin-config-feedforward: config file with parameters for slow sinusoid experiment
+- lorenz-config-feedforward: config file with parameters for Lorenz experiment
